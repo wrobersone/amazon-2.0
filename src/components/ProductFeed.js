@@ -23,6 +23,7 @@ function ProductFeed({ products }) {
         className="md:col-span-full"
         src="https://links.papareact.com/dyz"
         alt=""
+        objectFit="contain"
       />
 
       <div className="md:col-span-2">
